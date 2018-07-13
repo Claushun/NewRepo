@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importer3", "Importer3\Importer3.csproj", "{487A9EF7-AA21-45F5-95FE-EDCAFC7693BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487A9EF7-AA21-45F5-95FE-EDCAFC7693BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487A9EF7-AA21-45F5-95FE-EDCAFC7693BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487A9EF7-AA21-45F5-95FE-EDCAFC7693BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487A9EF7-AA21-45F5-95FE-EDCAFC7693BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A51183-D9AC-410A-BFAE-7A306654FFE1}
+	EndGlobalSection
+EndGlobal
